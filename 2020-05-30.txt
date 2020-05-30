@@ -1,0 +1,27 @@
+もくもく会オンライン　2020/05/30 20:00-21:30
+
+Githubの学習
+Qiitaの開発合宿資料の更新
+
+目標とゴール
+　GithubのローカルファイルのUP
+
+結果
+　プロジェクトは2件
+　　　第6回開発合宿分
+　　　もくもく会の記録
+
+　　　ローカルPCにGitを導入後、初期設定を行う。
+　　　TortoiseGitを導入し操作を学習する。
+　　　Githubでリモートアカウントを許可する。
+
+　ローカルのGit(bash)でGitを構成する。
+　ローカルのファイルをGitへpushする。
+　　１）https://github.com/wacky3/BINGO-2019
+　　２）https://github.com/wacky3/Leadinge_MOKUMOKU_log 
+
+　　この記録をローカルで作成し、２）へUPする。
+　　　ローカルでcommit後、Masterへpushした。
+
+次回
+　　JupyterLabをGithub拡張してGitGubと連携する。
